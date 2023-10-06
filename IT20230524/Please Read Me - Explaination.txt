@@ -1,0 +1,1 @@
+In here I have trained three models using Inception ResNetV2 by applying different variations to them. In here the most accurate model is in "Inception ResNetV2 with Regularization(84.23%)" folder. 
